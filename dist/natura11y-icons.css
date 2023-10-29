@@ -1,8 +1,8 @@
 @font-face {
     font-family: "natura11y-icons";
-    src: url("./natura11y-icons.ttf?a5929bdd678c2a0ce3361b8279a0c5ea") format("truetype"),
-url("./natura11y-icons.woff2?a5929bdd678c2a0ce3361b8279a0c5ea") format("woff2"),
-url("./natura11y-icons.woff?a5929bdd678c2a0ce3361b8279a0c5ea") format("woff");
+    src: url("./natura11y-icons.ttf?0ad988ff786d2becb2c6c51ab2b82d2c") format("truetype"),
+url("./natura11y-icons.woff2?0ad988ff786d2becb2c6c51ab2b82d2c") format("woff2"),
+url("./natura11y-icons.woff?0ad988ff786d2becb2c6c51ab2b82d2c") format("woff");
 }
 
 .icon:before {

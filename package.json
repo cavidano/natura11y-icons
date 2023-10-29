@@ -1,6 +1,6 @@
 {
   "name": "natura11y-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Open source icon library for the Natura11y Inclusive Framework.",
   "private": false,
   "dependencies": {
