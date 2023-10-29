@@ -1,4 +1,4 @@
-const codepoints = require('./dist/natura11y-icons.json');
+const codepoints = require('./icon-codepoints.json');
 
 module.exports = {
   inputDir: './original-svg', // (required)
@@ -16,9 +16,9 @@ module.exports = {
     }
   },
   pathOptions: {
+    json: './icon-codepoints.json',
     html: './dist/index.html',
     css: './dist/natura11y-icons.css',
-    json: './dist/natura11y-icons.json',
     ttf: './dist/natura11y-icons.ttf',
     woff: './dist/natura11y-icons.woff',
     woff2: './dist/natura11y-icons.woff2'
