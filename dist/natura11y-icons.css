@@ -1,8 +1,8 @@
 @font-face {
     font-family: "natura11y-icons";
-    src: url("./natura11y-icons.ttf?0ad988ff786d2becb2c6c51ab2b82d2c") format("truetype"),
-url("./natura11y-icons.woff2?0ad988ff786d2becb2c6c51ab2b82d2c") format("woff2"),
-url("./natura11y-icons.woff?0ad988ff786d2becb2c6c51ab2b82d2c") format("woff");
+    src: url("./natura11y-icons.ttf?c3a884a5af7d2e02ae5cfef04c7874cc") format("truetype"),
+url("./natura11y-icons.woff2?c3a884a5af7d2e02ae5cfef04c7874cc") format("woff2"),
+url("./natura11y-icons.woff?c3a884a5af7d2e02ae5cfef04c7874cc") format("woff");
 }
 
 .icon:before {
@@ -300,9 +300,6 @@ url("./natura11y-icons.woff?0ad988ff786d2becb2c6c51ab2b82d2c") format("woff");
 }
 .icon.icon-twitter-x:before {
     content: "\f164";
-}
-.icon.icon-upload:before {
-    content: "\f142";
 }
 .icon.icon-volume:before {
     content: "\f166";
